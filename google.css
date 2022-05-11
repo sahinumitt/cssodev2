@@ -1,0 +1,87 @@
+body {
+  display: block;
+  margin: 8px;
+}
+
+.nav {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  height: 113px;
+
+}
+
+.search-area {
+  display: block;
+  padding-bottom: 1mm;
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  margin: auto;
+  width: 90%;
+  height: auto;
+  text-align: center;
+  background-color: #EEEE;
+}
+
+.search-area > span {
+  font-size: 19px;
+}
+
+.search-area > input[type="text" i] {
+  padding: 2px 138px;
+}
+
+.search-area > button {
+  margin-top: 1mm;
+  padding: 3px 14px;
+  font-size: 14px;
+}
+
+.altkutu {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.spesial-search {
+  font-size: medium;
+  padding: 12px 0px 0px 0px;
+  display: block;
+  width: 35%;
+  height: 68px;
+  background-color: #7EE5DA;
+  margin: 0 auto;
+  float: left;
+  text-align: center;
+}
+.help {
+  font-size: small;
+  padding: 12px 0px 0px 0px;
+  display: block;
+  width: 25%;
+  height: 68px;
+  background-color: #7EE5DA;
+  margin: 0 2px;
+  float: left;
+  text-align: center;
+}
+
+.mail {
+  font-size: medium;
+  padding: 0px 0px 0px 0px;
+  display: block;
+  width: 758px;
+  height: 80px;
+  background-color: #7EE5DA;
+  margin: 0 auto;
+  float: left;
+  text-align: center;
+
+}
+
+.copyrigiht {
+  display: block;
+  clear: both;
+  text-align: center;
+  padding-top: 10px;
+}
